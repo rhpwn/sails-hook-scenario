@@ -1,0 +1,49 @@
+{
+  "name": "sails-hook-scenario",
+  "version": "0.1.0",
+  "description": "Implements scenarios for sails models",
+  "main": "index.js",
+  "sails": {
+    "isHook": true
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhpwn/sails-hook-scenario.git"
+  },
+  "keywords": [
+    "sails",
+    "sails-hook",
+    "model",
+    "scenario",
+    "validation",
+    "hook",
+    "plugin",
+    "error",
+    "module"
+  ],
+  "author": {
+    "name": "rhpwn",
+    "email": "rodnitchi@gmail.com",
+    "url": "https://github.com/rhpwn"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/rhpwn/sails-hook-scenario",
+  "contributors": [
+    {
+      "name": "rhpwn"
+    },
+  ],
+  "devDependencies": {
+    "sails": "^0.11.0",
+    "sails-disk": "^0.10.7"
+  },
+  "maintainers": [
+    {
+      "name": "rhpwn",
+      "email": "rodnitchi@gmail.com"
+    }
+  ],
+}
