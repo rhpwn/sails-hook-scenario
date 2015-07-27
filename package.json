@@ -34,7 +34,7 @@
   "contributors": [
     {
       "name": "rhpwn"
-    },
+    }
   ],
   "devDependencies": {
     "sails": "^0.11.0",
@@ -45,5 +45,5 @@
       "name": "rhpwn",
       "email": "rodnitchi@gmail.com"
     }
-  ],
+  ]
 }
